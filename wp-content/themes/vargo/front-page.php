@@ -20,6 +20,8 @@ get_header(); ?>
 				<div id="home_scroll_wrapper">
 
 					<div id="home_scroll">
+						<div id="scroll6" class="scroll"><a href="http://www.vargosolutions.com/capabilities/process-improvement-solutions/cofe/"></a>
+						</div>
 					
 						<div id="scroll2" class="scroll">
 							<h2><span>We help <strong>E-commerce, Direct-to-Consumer Companies</strong> <br> streamline and optimize their facilities.</span></h2>
@@ -37,8 +39,6 @@ get_header(); ?>
 							<h1><span>We break down traditional ways of thinking and apply proven <strong>Lean Distribution</strong> principles <br> to minimize costs, and maximize efficiencies.</span></h1>
 						</div>
 						
-						<div id="scroll6" class="scroll"><a href="http://www.vargosolutions.com/capabilities/process-improvement-solutions/cofe/"></a>
-						</div>
 
 					</div><!-- #home_scroll -->
 				
