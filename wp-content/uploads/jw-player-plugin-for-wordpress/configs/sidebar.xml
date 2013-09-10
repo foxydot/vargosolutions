@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<config>
+<repeat type='Additional'>always</repeat>
+<controlbar>none</controlbar>
+<dock>false</dock>
+<autostart>true</autostart>
+<height>113</height>
+<width>200</width>
+<icons>true</icons>
+<playlist.position>none</playlist.position>
+<playlistsize>180</playlistsize>
+<repeat>none</repeat>
+<shuffle>false</shuffle>
+<bufferlength>1</bufferlength>
+<smoothing>true</smoothing>
+<stretching>uniform</stretching>
+<wmode>transparent</wmode>
+<mute>false</mute>
+<volume>90</volume>
+</config>
